@@ -1,3 +1,4 @@
+<img src="https://i.imgur.com/iSoxW3J.png" width="850" alt="Dani Jardim" style="max-width:100%;">
 
 ### Olá! 😁
 
