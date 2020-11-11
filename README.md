@@ -2,8 +2,11 @@
 
 ### Olá! 😁
 
-Eu sou a Dani, sou designer gráfica e frontend em início de carreira. Moro em São Paulo.
-As minhas stacks atuais são: Html, CSS, JavaScript e React 
+Oi, eu sou a Dani! Formada em design gráfico e fotografia, trabalhei com criação direta em agências de publicidade, estúdios de fotografia e freelancers por mais de 10 anos.
+
+No ano de 2019 conclui o tecnólogo de Sistemas Para Internet pela FATEC e agora estou em busca de uma vaga como Desenvolvedora Frontend.
+
+Atualmente estou focando meu tempo em estudos, concentrando principalmente em javaScript. Moro em São Paulo, as minhas stacks são: Html5, CSS3, JavaScript e React.js.
 
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
