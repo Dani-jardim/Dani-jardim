@@ -2,11 +2,21 @@
 
 ### Olá! 😁
 
-Oi, eu sou a Dani! Formada em design gráfico e fotografia, trabalhei com criação direta em agências de publicidade, estúdios de fotografia e freelancers por mais de 10 anos.
+Oi, eu sou a Dani! Sou desenvolvedora, graduada em Sistemas para Internet. Além disso, tenho formação em design gráfico e fotografia, acumulando 10 anos de experiência em criação direta. Trabalhei em agências de publicidade, estúdios de fotografia e também como freelancer.
 
-No ano de 2019 conclui o tecnólogo de Sistemas Para Internet pela FATEC e agora estou em busca de uma vaga como Desenvolvedora Frontend.
+Nos últimos anos atuei como desenvolvedora front end na consultoria ThoughtWorks em grandes clientes de varejo, atuando com microfrontends React, JavaScript, Typescript, Jest, React Testing Library e Cypress.
 
-Atualmente estou focando meu tempo em estudos, concentrando principalmente em javaScript. Moro em São Paulo, as minhas stacks são: Html5, CSS3, JavaScript e React.js.
+Habilidades técnicas:
+
+● Programming Languages: React, Javascript, Typescript, CSS, HTML
+● Testing Tools: Jest, Playwright, Cypress, Testing Library
+● Project Management Tools: GitHub, Bitbucket, Trello, Jira, Slack
+● Methodologies: Pair Programming, Kanban, Agile, Scrum, TDD
+
+Meu contato 
+✉ oi.danidev@gmail.com
+
+GitHub: https://github.com/Dani-jardim
 
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
