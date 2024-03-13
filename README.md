@@ -8,10 +8,10 @@ Nos últimos anos atuei como desenvolvedora front end na consultoria ThoughtWork
 
 Habilidades técnicas:
 
-● Programming Languages: React, Javascript, Typescript, CSS, HTML
-● Testing Tools: Jest, Playwright, Cypress, Testing Library
-● Project Management Tools: GitHub, Bitbucket, Trello, Jira, Slack
-● Methodologies: Pair Programming, Kanban, Agile, Scrum, TDD
+● Programming Languages: React, Javascript, Typescript, CSS, HTML <br>
+● Testing Tools: Jest, Playwright, Cypress, Testing Library <br>
+● Project Management Tools: GitHub, Bitbucket, Trello, Jira, Slack <br>
+● Methodologies: Pair Programming, Kanban, Agile, Scrum, TDD<br>
 
 Meu contato 
 ✉ oi.danidev@gmail.com
