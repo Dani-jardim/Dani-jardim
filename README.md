@@ -26,10 +26,10 @@ In recent years, I've worked as a front-end developer at ThoughtWorks consultanc
 
 Technical Skills:
 
-● Programming Languages: React, Javascript, Typescript, CSS, HTML
-● Testing Tools: Jest, Playwright, Cypress, Testing Library
-● Project Management Tools: GitHub, Bitbucket, Trello, Jira, Slack
-● Methodologies: Pair Programming, Kanban, Agile, Scrum, TDD
+● Programming Languages: React, Javascript, Typescript, CSS, HTML <br>
+● Testing Tools: Jest, Playwright, Cypress, Testing Library<br>
+● Project Management Tools: GitHub, Bitbucket, Trello, Jira, Slack<br>
+● Methodologies: Pair Programming, Kanban, Agile, Scrum, TDD<br>
 
 Contact me:
 ✉ oi.danidev@gmail.com
