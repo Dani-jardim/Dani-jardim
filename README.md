@@ -18,6 +18,24 @@ Meu contato
 
 GitHub: https://github.com/Dani-jardim
 
+[en]
+
+Hi, I'm Dani! I'm a developer, with a degree in Internet Systems. Additionally, I have a background in graphic design and photography, accumulating 10 years of experience in direct creation. I've worked in advertising agencies, photography studios, and also as a freelancer.
+
+In recent years, I've worked as a front-end developer at ThoughtWorks consultancy for major retail clients, working with microfrontends React, JavaScript, Typescript, Jest, React Testing Library, and Cypress.
+
+Technical Skills:
+
+● Programming Languages: React, Javascript, Typescript, CSS, HTML
+● Testing Tools: Jest, Playwright, Cypress, Testing Library
+● Project Management Tools: GitHub, Bitbucket, Trello, Jira, Slack
+● Methodologies: Pair Programming, Kanban, Agile, Scrum, TDD
+
+Contact me:
+✉ oi.danidev@gmail.com
+
+GitHub: https://github.com/Dani-jardim
+
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/felipefialho_)](https://twitter.com/danijardim00)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.linkedin.com/in/daniela-jardim/)
