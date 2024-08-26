@@ -2,16 +2,15 @@
 
 ### Olá! 😁
 
-Oi, eu sou a Dani! Sou desenvolvedora, graduada em Sistemas para Internet. Além disso, tenho formação em design gráfico e fotografia, acumulando 10 anos de experiência em criação direta. Trabalhei em agências de publicidade, estúdios de fotografia e também como freelancer.
-
-Nos últimos anos atuei como desenvolvedora front end na consultoria ThoughtWorks em grandes clientes de varejo, atuando com microfrontends React, JavaScript, Typescript, Jest, React Testing Library e Cypress.
+Oi, eu sou a Dani! Sou desenvolvedora formada em Sistemas para Internet, com 5 anos de experiência em frontend. Trabalhei extensivamente na estruturação de páginas web utilizando Bootstrap, HTML5 e CSS, em agências de publicidade, gráficas e como freelancer.
+Nos últimos 3 anos, atuei como desenvolvedora frontend, com foco na criação de novas funcionalidades para grandes clientes de varejo. Minha experiência inclui o uso de microfrontends, React, JavaScript, TypeScript, Jest, React Testing Library e Cypress.
 
 Habilidades técnicas:
 
-● Programming Languages: React, Javascript, Typescript, CSS, HTML <br>
-● Testing Tools: Jest, Playwright, Cypress, Testing Library <br>
-● Project Management Tools: GitHub, Bitbucket, Trello, Jira, Slack <br>
-● Methodologies: Pair Programming, Kanban, Agile, Scrum, TDD<br>
+● Programming Languages: React, Javascript, Typescript, CSS, HTML
+● Testing Tools: Jest, Playwright, Cypress, Testing Library
+● Project Management Tools: GitHub, Bitbucket, Trello, Jira, Slack
+● Methodologies: Pair Programming, Kanban, Agile, Scrum, TDD
 
 Meu contato 
 ✉ oi.danidev@gmail.com
@@ -20,21 +19,19 @@ GitHub: https://github.com/Dani-jardim
 
 [en]
 
-Hi, I'm Dani! I'm a developer, with a degree in Internet Systems. Additionally, I have a background in graphic design and photography, accumulating 10 years of experience in direct creation. I've worked in advertising agencies, photography studios, and also as a freelancer.
+Hi, I'm Dani! I'm a developer with a degree in Systems for the Internet and 5 years of experience in frontend development. I have worked extensively on web page structuring using Bootstrap, HTML5, and CSS, in advertising agencies, print shops, and as a freelancer.
 
-In recent years, I've worked as a front-end developer at ThoughtWorks consultancy for major retail clients, working with microfrontends React, JavaScript, Typescript, Jest, React Testing Library, and Cypress.
+In the last 3 years, I have worked as a frontend developer focusing on creating new features for large retail clients. My experience includes working with microfrontends, React, JavaScript, TypeScript, Jest, React Testing Library, and Cypress.
 
 Technical Skills:
 
-● Programming Languages: React, Javascript, Typescript, CSS, HTML <br>
-● Testing Tools: Jest, Playwright, Cypress, Testing Library<br>
-● Project Management Tools: GitHub, Bitbucket, Trello, Jira, Slack<br>
-● Methodologies: Pair Programming, Kanban, Agile, Scrum, TDD<br>
+● Programming Languages: React, Javascript, Typescript, CSS, HTML
+● Testing Tools: Jest, Playwright, Cypress, Testing Library
+● Project Management Tools: GitHub, Bitbucket, Trello, Jira, Slack
+● Methodologies: Pair Programming, Kanban, Agile, Scrum, TDD
 
 Contact me:
 ✉ oi.danidev@gmail.com
-
-GitHub: https://github.com/Dani-jardim
 
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/felipefialho_)](https://twitter.com/danijardim00)
