@@ -7,9 +7,9 @@ Nos últimos 3 anos, atuei como desenvolvedora frontend, com foco na criação d
 
 Habilidades técnicas:
 
-● Programming Languages: React, Javascript, Typescript, CSS, HTML
-● Testing Tools: Jest, Playwright, Cypress, Testing Library
-● Project Management Tools: GitHub, Bitbucket, Trello, Jira, Slack
+● Programming Languages: React, Javascript, Typescript, CSS, HTML <br>
+● Testing Tools: Jest, Playwright, Cypress, Testing Library<br>
+● Project Management Tools: GitHub, Bitbucket, Trello, Jira, Slack<br>
 ● Methodologies: Pair Programming, Kanban, Agile, Scrum, TDD
 
 Meu contato 
@@ -25,16 +25,15 @@ In the last 3 years, I have worked as a frontend developer focusing on creating 
 
 Technical Skills:
 
-● Programming Languages: React, Javascript, Typescript, CSS, HTML
-● Testing Tools: Jest, Playwright, Cypress, Testing Library
-● Project Management Tools: GitHub, Bitbucket, Trello, Jira, Slack
+● Programming Languages: React, Javascript, Typescript, CSS, HTML<br>
+● Testing Tools: Jest, Playwright, Cypress, Testing Library<br>
+● Project Management Tools: GitHub, Bitbucket, Trello, Jira, Slack<br>
 ● Methodologies: Pair Programming, Kanban, Agile, Scrum, TDD
 
 Contact me:
 ✉ oi.danidev@gmail.com
 
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/felipefialho_)](https://twitter.com/danijardim00)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.linkedin.com/in/daniela-jardim/)
 
 
