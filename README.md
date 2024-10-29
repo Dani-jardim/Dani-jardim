@@ -1,3 +1,5 @@
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/8VIeIeF"  ><a href="//imgur.com/a/8VIeIeF">Capa Linkedin Dani Jardim</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 <img src="https://imgur.com/a/capa-linkedin-dani-jardim-8VIeIeF" width="850" alt="Dani Jardim" style="max-width:100%;">
 
 ### Olá! 😁
