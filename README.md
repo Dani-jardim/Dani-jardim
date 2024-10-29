@@ -1,6 +1,4 @@
 
-<img src="https://i.imgur.com/a/8VIeIeF" width="850" alt="Dani Jardim" style="max-width:100%;">
-
 ### Olá! 😁
 
 Oi, eu sou a Dani! Sou desenvolvedora formada em Sistemas para Internet, com 5 anos de experiência em frontend. Trabalhei extensivamente na estruturação de páginas web utilizando Bootstrap, HTML5 e CSS, em agências de publicidade, gráficas e como freelancer.
