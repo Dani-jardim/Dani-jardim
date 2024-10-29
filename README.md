@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/a/8VIeIeF" width="850" alt="Dani Jardim" style="max-width:100%;">
+<img src="https://imgur.com/a/capa-linkedin-dani-jardim-8VIeIeF" width="850" alt="Dani Jardim" style="max-width:100%;">
 
 ### Olá! 😁
 
